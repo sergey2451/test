@@ -1,0 +1,3 @@
+location ^~ /db/ {
+	deny all;
+}
